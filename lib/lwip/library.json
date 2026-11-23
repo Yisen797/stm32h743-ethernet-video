@@ -1,0 +1,8 @@
+{
+    "name": "lwip",
+    "version": "2.1.2",
+    "build": {
+        "flags": "-I src/include -I system",
+        "includeDir": "src/include"
+    }
+}
